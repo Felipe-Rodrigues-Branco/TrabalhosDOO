@@ -23,6 +23,3 @@ Este sistema simula o controle de um estacionamento com diferentes tipos de veí
 | Caminhão        | R$ 10,00       |
 - - - - - - - - - - - - - - - - - - 
 
-
-🧵 Descrição do Cenário Escolhido
-O sistema representa um estacionamento que gerencia diferentes tipos de veículos. Cada veículo tem uma forma diferente de calcular o pagamento com base nas horas estacionadas.
