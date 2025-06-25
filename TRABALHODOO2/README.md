@@ -34,6 +34,9 @@ src/
 * **Edição**: Modificar dados do veículo  
 * **Remoção**: Excluir veículo do sistema
 
+  ![image](https://github.com/user-attachments/assets/47443a07-73af-4f1d-bd1e-202edf8e8464)
+
+
 ### **Cálculo de Pagamento**
 
 * **Carro**: R$ 5,00 por hora  
@@ -78,6 +81,9 @@ src/
 5. Use **Limpar** para resetar o formulário  
 6. **Voltar** retorna à tela inicial
 
+![image](https://github.com/user-attachments/assets/7c18760e-2ba5-4e56-b11b-ef474a20fe8e)
+
+
 ### **Listagem de Veículos**
 
 * **Tabela** mostra: Placa, Modelo, Tipo, Data/Hora de entrada  
@@ -85,6 +91,9 @@ src/
 * **Remover Selecionado**: Exclui veículo selecionado  
 * **Calcular Pagamento**: Calcula valor baseado nas horas  
 * **Voltar**: Retorna à tela inicial
+
+![image](https://github.com/user-attachments/assets/b7287db4-327e-4120-a5fc-dd9e3a59b3e2)
+
 
 ### **Busca e Edição**
 
@@ -94,6 +103,9 @@ src/
 4. **Editar**: Habilita modificação dos campos  
 5. **Salvar**: Confirma as alterações  
 6. **Remover**: Exclui o veículo atual
+
+![image](https://github.com/user-attachments/assets/6545d096-3cc5-460a-acb1-c162049c3987)
+
 
 ## **Tratamento de Erros**
 
