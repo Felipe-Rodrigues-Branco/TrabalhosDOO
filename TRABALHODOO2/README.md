@@ -1,4 +1,4 @@
-# **Sistema de Estacionamento \- Java Swing**
+# **Sistema de Estacionamento \**
 
 ## **Descrição**
 
